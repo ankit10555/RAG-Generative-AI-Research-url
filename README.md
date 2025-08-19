@@ -11,6 +11,7 @@ Scrape web articles 🌐
 Store them in a vector database 🗂️
 Ask research-style questions ❓
 Get answers with cited sources 📌
+
 ⚡ Features
 Load documents from URLs automatically
 Text chunking for better retrieval
