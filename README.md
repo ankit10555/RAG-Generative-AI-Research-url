@@ -1,20 +1,21 @@
-📚 Research Reader (RAG with LangChain, Groq, and HuggingFace)
-This project is a Retrieval-Augmented Generation (RAG) pipeline built with:
+# 🖊️ Research Engine  
 
-LangChain
-Groq LLMs
-HuggingFace Embeddings
-Chroma Vector Database
-It allows you to:
+A lightweight **Research Assistant** built with **Streamlit** and **LangChain**.  
+It allows you to paste URLs, process the content into a vector database, and query it using a Retrieval-Augmented Generation (RAG) pipeline powered by **Groq LLM** + **HuggingFace embeddings** + **ChromaDB**.  
 
-Scrape web articles 🌐
-Store them in a vector database 🗂️
-Ask research-style questions ❓
-Get answers with cited sources 📌
+---
 
-⚡ Features
-Load documents from URLs automatically
-Text chunking for better retrieval
-Store embeddings in Chroma DB (persistent storage)
-Query using Groq’s LLaMA-3.1 model
-Returns answers with sources
+## 🚀 Features
+- 📌 Add up to 3 URLs as input sources  
+- 🔍 Ask natural language questions about the content  
+- 📚 Retrieval-Augmented Generation (RAG) for more accurate answers  
+- 🖼️ Simple and clean **Streamlit UI** with background illustration  
+- ⚡ Powered by:
+  - [LangChain](https://www.langchain.com/)  
+  - [Chroma](https://www.trychroma.com/)  
+  - [Groq LLM](https://groq.com/)  
+  - [HuggingFace embeddings](https://huggingface.co/)  
+
+---
+
+
